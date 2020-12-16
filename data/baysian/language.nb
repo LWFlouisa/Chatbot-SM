@@ -1,0 +1,32 @@
+o:NaiveBayes	:@features_count{:genders}I"ruh:ETf1I"genders;Tf12I"rah;T@	I"roh;T@	I"	yona;T@	I"
+yonei;T@	I"
+yonas;T@	I"Ruh;T@	I"Rah;T@	I"Roh;T@	I"	Yona;T@	I"
+Yonei;T@	I"
+Yonas;T@	f0:alphabet}fI"ba;T@	I"alphabet;Tf96I"bi;T@	I"bu;T@	I"be;T@	I"bo;T@	I"by;T@	I"da;T@	I"di;T@	I"du;T@	I"de;T@	I"do;T@	I"dy;T@	I"ea;T@	I"ei;T@	I"eu;T@	I"ee;T@	I"eo;T@	I"ey;T@	I"fa;T@	I"fi;T@	I"fu;T@	I"fe;T@	I"fo;T@	I"fy;T@	I"ga;T@	I"gi;T@	I"gu;T@	I"ge;T@	I"go;T@	I"gy;T@	I"ia;T@	I"ii;T@	I"iu;T@	I"ie;T@	I"io;T@	I"iy;T@	I"ja;T@	I"ji;T@	I"ju;T@	I"je;T@	I"jo;T@	I"jy;T@	I"ka;T@	I"ki;T@	I"ku;T@	I"ke;T@	I"ko;T@	I"ky;T@	I"oa;T@	I"oi;T@	I"ou;T@	I"oe;T@	I"oo;T@	I"oy;T@	I"pa;T@	I"pi;T@	I"pu;T@	I"pe;T@	I"po;T@	I"py;T@	I"ta;T@	I"ti;T@	I"tu;T@	I"te;T@	I"to;T@	I"ty;T@	I"ua;T@	I"ui;T@	I"uu;T@	I"ue;T@	I"uo;T@	I"uy;T@	I"va;T@	I"vi;T@	I"vu;T@	I"ve;T@	I"vo;T@	I"vy;T@	I"wa;T@	I"wi;T@	I"wu;T@	I"we;T@	I"wo;T@	I"wy;T@	I"ya;T@	I"yi;T@	I"yu;T@	I"ye;T@	I"yo;T@	I"yy;T@	I"za;T@	I"zi;T@	I"zu;T@	I"ze;T@	I"zo;T@	I"zy;T@	@:
+color}I"
+eneru;T@	I"
+color;Tf8I"berena;T@	I"
+erudi;T@	I"eviyette;T@	I"	beru;T@	I"
+evene;T@	I"	yeru;T@	I"eranige;T@	@:directions}@|@	I"directions;Tf1e1I"	wesi;T@	I"	easi;T@	I"
+siuha;T@	I"upe;T@	I"dio;T@	I"	feru;T@	I"
+biosi;T@	I"
+iniwa;T@	I"
+utiwa;T@	@:clothes}I"esakeru;T@	I"clothes;Tf13I"deruesu;T@	I"
+eheru;T@	I"
+siabi;T@	I"siabi biesa;T@	I"berukiesiti;T@	I"esiadi;T@	I"	tero;T@	I"sikeru;T@	I"deresi;T@	I"sehiere;T@	I"sitaka;T@	I"
+sioki;T@	@:
+meats}I"sitaki;T@	I"
+meats;T@ÉI"siho-sitaki;T@	I"	befi;T@	I"shikini;T@	I"
+tieru;T@	I"	liam;T@	I"
+ehaki;T@	I"	deru;T@	I"pirosi;T@	I"
+bieru;T@	@:vegetables}I"
+siaro;T@	I"vegetables;T@I"
+pitat;T@	I"
+siaba;T@	I"sipinas;T@	I"eretuce;T@	I"siwa-pitat;T@	I"
+ginie;T@	I"siquasi;T@	I"piemaki;T@	I"tea;T@	I"siofee;T@	I"eribos;T@	@:conjunction}I"pioyeh;T@	I"conjunction;Tf15I"	itee;T@	I"isatee;T@	I"ni;T@	I"
+piesa;T@	I"	oyou;T@	@$@	I"si;T@	I"ena;T@	I"esaoma;T@	I"kiyueru;T@	I"
+diesa;T@	I"aviesi;T@	I"ini;T@	I"uta;T@	@:personal_pronouns}@Y@	I"personal_pronouns;Tf7I"viyosa;T@	I"	niyo;T@	I"iye;T@	I"eye;T@	I"
+iyese;T@	I"
+eyese;T@	@:@klass_count{;@;	@;
+@~;@É;@ê;@É;@;@∫;@ :@klasses[;;	;
+;;;;;;:@db_filepathI"data/baysian/language.nb;T
