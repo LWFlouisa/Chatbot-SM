@@ -1,3 +1,13 @@
+# Downloads chatbot data.
+def download_data
+  system("git clone https://github.com/LWFlouisa/Chatbots.git")
+end
+
+# Removes uneeded chatbots to safe space.
+def purge_data
+  system("rm -rfv Chatbots")
+end
+
 # Learned data is saved in folder.
 def shutdown
   puts "Exiting process..."
@@ -16,9 +26,6 @@ def chatbot
 
     # Breaks loop and returns to main process.
     break
-  end
-
-  def duck_duck_go # Defaults to using Duck Duck Go search.
   end
 
   require 'programr'
@@ -102,11 +109,15 @@ fm = FiniteMachine.new do
 
   # Chatbot is awake.
   on_enter(:on) { |event|
+    download_data
+    
     chatbot
   }
 
   # Chatbot is asleep.
   on_enter(:off) { |event|
+    purge_data
+    
     naive_bayes
   }
 
